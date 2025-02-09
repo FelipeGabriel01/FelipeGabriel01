@@ -2,10 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe Viana, tenho 17 anos. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas.Sou apaixonado por tecnologia,especialmente no desenvolvimento de sites e aplicativos.
+Me chamo Felipe Viana, tenho 17 anos. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, especialmente no desenvolvimento de sites e aplicativos.
 
 
-    </a> 
+<p align="left">
     <a href="https://github.com/FelipeGabriel01?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
