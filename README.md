@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe Viana, tenho 17 anos. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, especialmente no desenvolvimento de sites e aplicativos.
+Olá! Meu nome é Felipe Viana, tenho 18 anos e sou formado no Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas. Atualmente, curso Análise e Desenvolvimento de Sistemas no Senac Santo Amaro.
+Estou no início da minha trajetória profissional e busco oportunidades que me permitam aprender, evoluir e contribuir de forma significativa. Tenho grande interesse em aprimorar minhas habilidades técnicas e colaborar no desenvolvimento de soluções tecnológicas inovadoras, enquanto cresço como profissional.
+Possuo experiência como estagiário no Ministério Público de São Paulo e desenvolvo aplicativos e sites modernos voltados para resolver desafios do dia a dia
 
 
 <p align="left">
